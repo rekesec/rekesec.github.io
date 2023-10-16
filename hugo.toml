@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://blog.johnrequejo.github.io/"
+baseURL = "https://blog.johnrequejo/"
 title = "Blog John Requejo"
 languageCode = "en"
 hasCJKLanguage = false
