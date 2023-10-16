@@ -1,13 +1,12 @@
 +++
 title = 'About'
 date = 2023-10-15T20:06:41+02:00
-draft = true
+draft = false
 +++
 
 # John Requejo Lopez
 
 [![Alt text](profile.jpg)](https://digitalocean.com)
-
 
 
 
