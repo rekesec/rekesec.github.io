@@ -10,7 +10,7 @@ draft = false
 
 
 
-is a security engineer with more than 3 years of experience in the threat intelligence and deception field. He has good skills developing automation tools that helps him for his daily tasks. He move around underground forums with the objective of researching for new threat actors’ campaigns like phishing and malware binaries.
+Is a security engineer with more than 3 years of experience in the threat intelligence and deception field. He has good skills to develop automation tools that help him in his daily tasks. He moves around underground forums with the objective of researching new threat actors’ campaigns like phishing and malware binaries.
 
 He is a highly organized and detail-oriented professional that collects, analyzes, and interprets data to provide actionable intelligence. He has proven success in developing and implementing strategic intelligence plans to support law enforcement initiatives. Skilled in using various intelligence tools and software to analyze data and interpret intelligence findings. Strong analytical, problem-solving and development skills, combined with excellent written and verbal communication skills.
 
