@@ -1,0 +1,28 @@
+[[socials]]
+    id = "rss"
+    url = "/rss.xml"
+    icon = "rss"
+    title = "RSS"
+    weight = 1
+
+[[socials]]
+    id = "email"
+    url = "mailto:info@johnrequejo.com"
+    icon = "envelope"
+    title = "Email"
+    weight = 2
+
+[[socials]]
+    id = "twitter"
+    url = "https://x.com/_JohnRequejo"
+    icon = "twitter"
+    title = "twitter"
+    weight = 3
+
+[[socials]]
+    id = "linkedin"
+    url = "https://www.linkedin.com/in/johnrequejolopez/"
+    icon = "linkedin"
+    title = "Linkedin"
+    weight = 4
+
