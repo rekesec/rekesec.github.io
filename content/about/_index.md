@@ -6,7 +6,7 @@ draft = false
 
 # John Requejo Lopez
 
-[![Alt text](profile.jpg)](https://digitalocean.com)
+[![Alt text](profile.jpg)](https://johnrequejo.com)
 
 
 
