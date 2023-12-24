@@ -2,7 +2,6 @@
 title= 'About'
 date= 2023-10-16T12:20:00+02:00
 draft= false
-tags= about
 +++
 
 # John Requejo Lopez
