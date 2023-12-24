@@ -1,8 +1,8 @@
 +++
-title: 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
-date: 2025-12-29T00:00:00+00:00
-draft: true
-tags: ["LastMalware", "WormGPT", "IA", "UndergroundForums", "DarkWeb", "DeepWeb"]
+title= 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
+date= 2025-12-29T00:00:00+00:00
+draft= true
+tags= ["LastMalware", "WormGPT", "IA", "UndergroundForums", "DarkWeb", "DeepWeb"]
 +++
 
 # Executive Summary
