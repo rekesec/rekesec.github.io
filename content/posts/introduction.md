@@ -6,7 +6,7 @@ draft= false
 
 # The Chornocicles of a Hacker...
 
-{{< gallery caption-effect="fade" >}}
+{{< gallery caption-effect="fade" caption-position="center">}}
   {{< figure link="/posts/images/introduction.png" caption="Triangle" >}}
 {{< /gallery >}}
 
