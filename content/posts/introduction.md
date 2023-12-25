@@ -7,7 +7,7 @@ draft= false
 # The Chornocicles of a Hacker...
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="avatar-icon.jpg" caption="Triangle" >}}
+  {{< figure thumb="-thumb" link="../avatar-icon.jpg" caption="Triangle" >}}
 {{< /gallery >}}
 
 Welcome to `The Chronicles of a Hacker`, where the world of cybersecurity unfolds through the eyes of a seasoned security engineer and researcher. In this digital realm where threats loom around every corner, and the line between protector and infiltrator blurs, our journey delves into the intricacies of safeguarding the virtual landscapes we navigate daily.
