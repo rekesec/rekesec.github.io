@@ -1,8 +1,9 @@
-+++
-title= 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
-date= 2025-12-23T00:00:00+00:00
-draft= false
-+++
+---
+title: 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
+date: 2025-12-23T00:00:00+00:00
+draft: false
+tags: ['WormGPT', 'IA', 'ChatGPT', 'LastMalware', 'Last', 'sim-4932765', 'SecurityResearching', 'DarkWeb', 'DeepWeb', 'UndergroundForum']
+---
 
 # Executive Summary
 
@@ -78,3 +79,15 @@ Fast forward to March 6, 2023, LastMalware published a post introducing his late
 
 The second version was released the 
 
+
+
+---
+
+### Threat actor profile
+
+| | |
+|:-: | :-:| 
+| Name | Fernando AKA LastMalware |
+| Location | Portugal |
+| Motivation | - Cybercrime <br> - Malware development <br> - Artificial Intelligence|
+| | |
