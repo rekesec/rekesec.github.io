@@ -23,7 +23,7 @@ The tool was initially offered at a price of 100€ (approximately 110.64 USD) p
 <br>
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/posts/images/WormGPT/WormGPTPrices.png" caption="WormGPT Initial Prices" >}}
+  {{< figure link="/posts/images/WormGPT/WormGPTPrices.png" caption="WormGPT Initial Prices" >}}
 {{< /gallery >}}
 
 <br>
@@ -66,7 +66,7 @@ Notably, up until January 22, 2022, he maintained a low profile without contribu
 
 <br>
 
-{{< figure thumb="-thumb" link="/posts/images/WormGPT/LastMalware-drat.png" caption="The Chronociles of a Hacker" >}}
+{{< figure link="/posts/images/WormGPT/LastMalware-drat.png" caption="The Chronociles of a Hacker" >}}
 
 <br>
 
@@ -75,7 +75,7 @@ Fast forward to March 6, 2023, LastMalware published a post introducing his late
 <br>
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/posts/images/WormGPT/WormGPTRelease.png" caption="The Chronociles of a Hacker" >}}
+  {{< figure link="/posts/images/WormGPT/WormGPTRelease.png" caption="The Chronociles of a Hacker" >}}
 {{< /gallery >}}
 
 <br>
