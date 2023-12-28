@@ -6,7 +6,7 @@ draft= false
 
 # The Chornocicles of a Hacker...
 
-{{< figure link="/posts/images/introduction.png" caption="Triangle" alt="The Chronocicles of a Hacker JRL logo." caption-position="center">}}
+{{< figure link="/posts/images/introduction.png" caption="The Chornociles of a Hacker JRL logo." alt="The Chronocicles of a Hacker JRL logo." caption-position="center">}}
 
 Welcome to `The Chronicles of a Hacker`, where the world of cybersecurity unfolds through the eyes of a seasoned security engineer and researcher. In this digital realm where threats loom around every corner, and the line between protector and infiltrator blurs, our journey delves into the intricacies of safeguarding the virtual landscapes we navigate daily.
 
