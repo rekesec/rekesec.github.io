@@ -1,6 +1,5 @@
 +++
 title= 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
-bigimg= '/posts/images/drat.png'
 date= 2023-12-23T00:00:00+00:00
 draft= false
 +++
