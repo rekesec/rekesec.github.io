@@ -22,9 +22,7 @@ The tool was initially offered at a price of 100€ (approximately 110.64 USD) p
 <br>
 <br>
 
-{{< gallery caption-effect="fade" >}}
   {{< figure link="/posts/images/WormGPT/WormGPTPrices.png" caption="WormGPT Initial Prices" >}}
-{{< /gallery >}}
 
 <br>
 <br>
@@ -74,9 +72,7 @@ Fast forward to March 6, 2023, LastMalware published a post introducing his late
 
 <br>
 
-{{< gallery caption-effect="fade" >}}
   {{< figure link="/posts/images/WormGPT/WormGPTRelease.png" caption="The Chronociles of a Hacker" >}}
-{{< /gallery >}}
 
 <br>
 
