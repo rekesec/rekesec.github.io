@@ -30,9 +30,7 @@ WormGPT boasts advanced features, including support for unlimited characters, ch
 
 LastMalware is a Portuguese individual who, as of October 22, 2022, was pursuing a degree in computer engineering. His personal GitHub account showcases his high-level programming skills, with proficiency in languages such as C++, Python, and JavaScript.
 
-{{< gallery >}}
-    {{< figure link="/posts/images/WormGPT/LastMalwareGitHub.png" caption="Picture taken from waybackmachine. IMG date: 5 Oct 2022." >}}
-{{< /gallery >}}
+{{< figure link="/posts/images/WormGPT/LastMalwareGitHub.png" caption="Picture taken from waybackmachine. IMG date: 5 Oct 2022." >}}
 
 LastMalware, also known as sim-4932765, became a member of HackForums on January 23, 2021, with a primary focus on enhancing his knowledge of malware development through interactions with other forum members. Despite being labeled as a malware developer/seller, he attempted to obscure his nationality by claiming to be from Poland.
 
@@ -46,9 +44,7 @@ In his quest for involvement, LastMalware sought membership in various hacking g
 
 Up until January 22, 2022, he had not posted any content. On this date, he released his inaugural malware variant named DCRat.
 
-{{< gallery >}}
-    {{< figure thumb="-thumb" link="/posts/images/WormGPT/LastMalware-drat.png" caption="The Chronociles of a Hacker" >}}
-{{< /gallery >}}
+{{< figure thumb="-thumb" link="/posts/images/WormGPT/LastMalware-drat.png" caption="The Chronociles of a Hacker" >}}
 
 The 
 
