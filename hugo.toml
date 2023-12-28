@@ -1,5 +1,5 @@
 baseurl = "https://blog.johnrequejo.com/"
-title = "The chronicles of a hacker | John Requejo"
+title = "The chronicles of a hacker"
 # Using theme as git submodule 
 theme = "beautifulhugo"
 # Or when using theme as hugo module
