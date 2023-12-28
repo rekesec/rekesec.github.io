@@ -83,7 +83,7 @@ The second version was released the
 
 ---
 
-### Threat actor profile
+### Threat actor metadata
 
 | | |
 |:-: | :-:| 
