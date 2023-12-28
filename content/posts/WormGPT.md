@@ -1,6 +1,6 @@
 +++
 title= 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
-date= 2023-12-23T00:00:00+00:00
+date= 2025-12-23T00:00:00+00:00
 draft= false
 +++
 
