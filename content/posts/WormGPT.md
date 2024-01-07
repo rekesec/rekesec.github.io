@@ -36,8 +36,9 @@ As evident from the imagery acquired by security researchers at slashnext, the t
  - Developers/helpers: @LastMalware, @Yellow, @Modz, @dash
  - Tool announcement date: 6th of March 2023.
  - Release date: 28th of June 2023.
- - Total officially released versions: 2
+ - Total officially released versions: 4
  - Project end date: 8th of August 2023
+ - Platforms where he operated: HF, Telegram, Discord
 
 ### LastMalware
 
