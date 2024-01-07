@@ -80,7 +80,7 @@ Fast forward to March 6, 2023, LastMalware published a post introducing his late
 
 <br>
 
-The second version was released on September 15, 2023, as indicated by [@DailyDarkWeb](https://twitter.com/DailyDarkWeb/status/1702728987708104902?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1702728987708104902%7Ctwgr%5Eb2ed277770628a2c729eb497720ef512acc323f7%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcybersecuritynews.com%2Fai-tool-wormgpt-v2%2F) in their X (old twitter) account.
+The second version was released on July 15, 2023, as indicated by [@DailyDarkWeb](https://twitter.com/DailyDarkWeb/status/1702728987708104902?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1702728987708104902%7Ctwgr%5Eb2ed277770628a2c729eb497720ef512acc323f7%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcybersecuritynews.com%2Fai-tool-wormgpt-v2%2F) in their X (old twitter) account.
 
 {{< figure link="/posts/images/WormGPT/WormGPTV2.png" caption="WormGPT version 2 release." >}}
 
