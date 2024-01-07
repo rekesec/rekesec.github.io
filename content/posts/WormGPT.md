@@ -19,7 +19,7 @@ During this blog post, we will delve into the unnerving world of dark AI, explor
 
 WormGPT is a chatbot developed by LastMalware. It is based on the GPT-J language model from 2021, which is an open-source large language model capable of generating text similar to humans, similar to ChatGPT. Being open-source, unlike OpenAI, the laboratory behind ChatGPT, means that anyone can inspect, share, and even modify the source code. This, combined with the absence of anti-abuse restrictions that prevent ChatGPT from using profanity, writing hate speech, or viruses, means that WormGPT can fulfill any kind of malicious requests.
 
-In its initial iteration, version 1 of the tool entered the market at a rate of 60€. However, with the unveiling of the enhanced version (v2), a strategic adjustment in pricing occurred, introducing two distinct plans: a monthly subscription at 100€ and an annual subscription priced at 550€.
+In its first version of the tool entered the market at a rate of 60€. However, with the unveiling of the enhanced version (v2), a strategic adjustment in pricing occurred, introducing two distinct plans: a monthly subscription at 100€ and an annual subscription priced at 550€.
 
   {{< figure link="/posts/images/WormGPT/WormGPTPrices.png" caption="WormGPT Initial Prices" >}}
 
