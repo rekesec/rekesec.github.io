@@ -1,5 +1,6 @@
 ---
 title: 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
+date: 2024-01-07T17:00:00+00:00
 date: 2024-01-07T1700:00+00:00
 draft: False
 tags: ['WormGPT', 'IA', 'ChatGPT', 'LastMalware', 'Last', 'sim-4932765', 'SecurityResearching', 'DarkWeb', 'DeepWeb', 'UndergroundForum']
@@ -68,7 +69,7 @@ Notably, up until January 22, 2022, he maintained a low profile without contribu
 
 <br>
 
-{{< figure link="/posts/images/WormGPT/LastMalware-drat.png" caption="DCRat announcment post" >}}
+{{< figure link="/posts/images/WormGPT/LastMalware-drat.png" caption="DCRat announcement post" >}}
 
 <br>
 
