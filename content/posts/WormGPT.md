@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
 date: 2024-01-06T00:00:00+00:00
-draft: True
+draft: False
 tags: ['WormGPT', 'IA', 'ChatGPT', 'LastMalware', 'Last', 'sim-4932765', 'SecurityResearching', 'DarkWeb', 'DeepWeb', 'UndergroundForum']
 ---
 
@@ -95,12 +95,10 @@ On their private official channel, on September 18th, 2023, WormGPT saw an updat
 {{< /gallery >}}
 
 
-The 12 of July 2023, LastMalware p
-
- **LastMalware** 
+On July 15, 2023, **LastMalware** announced that one of his team members expressed interest in acquiring the project. The question now arises: did he transfer the project to that teammate? 
 
 
-
+{{< figure link="/posts/images/WormGPT/WormGPTTransferPlan.png" caption="WormGPT selling plan." camption-effect="fade">}}
 
 ---
 
@@ -111,4 +109,3 @@ The 12 of July 2023, LastMalware p
 | Name | Fernando AKA LastMalware |
 | Location | Portugal |
 | Motivation | - Cybercrime <br> - Malware development <br> - Artificial Intelligence|
-| | |
