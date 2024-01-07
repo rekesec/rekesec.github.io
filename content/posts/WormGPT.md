@@ -87,7 +87,17 @@ On August 8th, **LastMalware** announced their departure from the project they i
 
 {{< figure link="/posts/images/WormGPT/EndOfWormGPTProject.png" caption="WormGPT departure announcment." >}}
 
+On their private official channel, on September 18th, 2023, WormGPT saw an update, followed by another release on December 27th, 2023. However, a puzzling question arises: who facilitated these updates when LastMalware had previously announced on an underground forum that they were leaving the project?
 
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/posts/images/WormGPT/WormGPTV3Release.png" caption="WormGPT Version 3 release post.">}}
+  {{< figure link="/posts/images/WormGPT/WormGPTV4Release.png" caption="WormGPT Version 4 release post.">}}
+{{< /gallery >}}
+
+
+The 12 of July 2023, LastMalware p
+
+ **LastMalware** 
 
 
 
