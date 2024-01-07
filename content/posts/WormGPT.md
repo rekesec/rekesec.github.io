@@ -1,6 +1,6 @@
 ---
 title: 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
-date: 2025-12-23T00:00:00+00:00
+date: 2024-01-6T00:00:00+00:00
 draft: false
 tags: ['WormGPT', 'IA', 'ChatGPT', 'LastMalware', 'Last', 'sim-4932765', 'SecurityResearching', 'DarkWeb', 'DeepWeb', 'UndergroundForum']
 ---
@@ -9,7 +9,7 @@ tags: ['WormGPT', 'IA', 'ChatGPT', 'LastMalware', 'Last', 'sim-4932765', 'Securi
 
 In the vast realm of technology, Artificial Intelligence (AI) stands as a powerful force, revolutionizing industries and reshaping the way we interact with the digital world. With its ability to learn, adapt, and perform tasks autonomously, AI has become an integral part of our daily lives, from virtual personal assistants to recommendation algorithms that guide our online experiences. Yet, as we embrace the marvels of this cutting-edge technology, a darker underbelly emerges, where AI is not just a tool for progress but a weapon for malicious intent.
 
-In the realm of AI chatbots, familiar faces like Siri, Google Assistant, and Alexa have become household names, offering assistance and companionship. However, amidst the bright facade of helpful virtual assistants, there exists a shadowy counterpart – a breed of AI designed not to serve, but to exploit. 
+In the realm of AI chatbots, familiar faces like Siri, Google Assistant and Alexa have become household names, offering assistance and companionship. However, amidst the bright facade of helpful virtual assistants, there exists a shadowy counterpart – a breed of AI designed not to serve, but to exploit. 
 
 During this blog post, we will delve into the unnerving world of dark AI, exploring the ominous applications that threaten to misuse the very technology designed to make our lives easier.
 
@@ -47,16 +47,16 @@ LastMalware is a Portuguese individual who, as of October 22, 2022, was pursuing
 
 <br>
 
-LastMalware, also known as sim-4932765 and last, became a member of HackForums on January 23, 2021, with a primary focus on enhancing his knowledge of malware development through interactions with other forum members. Despite being labeled as a malware developer/seller, he attempted to obscure his nationality by claiming to be from Poland.
+**LastMalware**, also known as **sim-4932765** and **last**, became a member of an underground forum on January 23, 2021, with a primary focus on enhancing his knowledge of malware development through interactions with other forum members. Despite being labeled as a malware developer/seller, he attempted to obscure his nationality by claiming to be from Poland.
 
-In his quest for involvement, LastMalware sought membership in various hacking groups like Coined, Mafia Crew, and PinkLSZ Developers. 
+In his quest for involvement, **LastMalware** sought membership in various hacking groups like **Coined**, **Mafia Crew**, and **PinkLSZ Developers**. 
 
 <br>
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/posts/images/WormGPT/mafia.png" caption="The Chronociles of a Hacker">}}
-  {{< figure thumb="-thumb" link="/posts/images/WormGPT/PinkLSZ.png" caption="The Chronociles of a Hacker" >}}
-  {{< figure thumb="-thumb" link="/posts/images/WormGPT/Coined.png" caption="The Chronociles of a Hacker" >}}
+  {{< figure thumb="-thumb" link="/posts/images/WormGPT/mafia.png" caption="Mafia group postulation">}}
+  {{< figure thumb="-thumb" link="/posts/images/WormGPT/PinkLSZ.png" caption="PinkLSZ postulation" >}}
+  {{< figure thumb="-thumb" link="/posts/images/WormGPT/Coined.png" caption="Coined postulation" >}}
 {{< /gallery >}}
 
 <br>
@@ -65,7 +65,7 @@ Notably, up until January 22, 2022, he maintained a low profile without contribu
 
 <br>
 
-{{< figure link="/posts/images/WormGPT/LastMalware-drat.png" caption="The Chronociles of a Hacker" >}}
+{{< figure link="/posts/images/WormGPT/LastMalware-drat.png" caption="DCRat announcment post" >}}
 
 <br>
 
@@ -73,17 +73,21 @@ Fast forward to March 6, 2023, LastMalware published a post introducing his late
 
 <br>
 
-  {{< figure link="/posts/images/WormGPT/WormGPTRelease.png" caption="The Chronociles of a Hacker" >}}
+  {{< figure link="/posts/images/WormGPT/WormGPTRelease.png" caption="WormGPT release post" >}}
 
 <br>
 
-The second version was released the 
+The second version was released on September 15, 2023, as indicated by [@DailyDarkWeb](https://twitter.com/DailyDarkWeb/status/1702728987708104902?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1702728987708104902%7Ctwgr%5Eb2ed277770628a2c729eb497720ef512acc323f7%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcybersecuritynews.com%2Fai-tool-wormgpt-v2%2F) in their X (old twitter) account.
+
+{{< figure link="/posts/images/WormGPT/WormGPTV2.png" caption="WormGPT version 2 release." >}}
+
+
 
 
 
 ---
 
-### Threat actor metadata
+### Metadata
 
 | | |
 |:-: | :-:| 
