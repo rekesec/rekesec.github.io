@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
 date: 2024-01-06T00:00:00+00:00
-draft: False
+draft: True
 tags: ['WormGPT', 'IA', 'ChatGPT', 'LastMalware', 'Last', 'sim-4932765', 'SecurityResearching', 'DarkWeb', 'DeepWeb', 'UndergroundForum']
 ---
 
@@ -28,9 +28,9 @@ The tool was initially offered at a price of 100€ (approximately 110.64 USD) p
 <br>
 <br>
 
-As seen in the following image obtained by the security researchers at slasnet, the tool is capable of generating emails without any ethical or security restrictions, assisting attackers in carrying out BEC attacks more easily and quickly.
+As seen in the following image obtained by the security researchers at slashnext, the tool is capable of generating emails without any ethical or security restrictions, assisting attackers in carrying out BEC attacks more easily and quickly.
 
-{{< figure link="/posts/images/WormGPT/WormGPT-Created-BEC-Attack.png" caption="WormGPT Initial Prices" >}}
+{{< figure link="/posts/images/WormGPT/WormGPT-Created-BEC-Attack.png" caption="slashnext.com image." >}}
 
 ### Key Points
 
