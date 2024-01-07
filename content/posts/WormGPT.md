@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
 date: 2024-01-06T00:00:00+00:00
-draft: True
+draft: False
 tags: ['WormGPT', 'IA', 'ChatGPT', 'LastMalware', 'Last', 'sim-4932765', 'SecurityResearching', 'DarkWeb', 'DeepWeb', 'UndergroundForum']
 ---
 
@@ -27,6 +27,10 @@ The tool was initially offered at a price of 100€ (approximately 110.64 USD) p
 
 <br>
 <br>
+
+As seen in the following image obtained by the security researchers at slasnet, the tool is capable of generating emails without any ethical or security restrictions, assisting attackers in carrying out BEC attacks more easily and quickly.
+
+{{< figure link="/posts/images/WormGPT/WormGPT-Created-BEC-Attack.png" caption="WormGPT Initial Prices" >}}
 
 ### Key Points
 
@@ -95,10 +99,13 @@ On their private official channel, on September 18th, 2023, WormGPT saw an updat
 {{< /gallery >}}
 
 
-On July 15, 2023, **LastMalware** announced that one of his team members expressed interest in acquiring the project. The question now arises: did he transfer the project to that teammate? 
+On July 15, 2023, **LastMalware** announced that one of his team members expressed interest in acquiring the project. 
 
 
 {{< figure link="/posts/images/WormGPT/WormGPTTransferPlan.png" caption="WormGPT selling plan." camption-effect="fade">}}
+
+
+## The question now arises: did he transfer the project to that teammate, or did he declare the end of the project and continue with it in the shadows?
 
 ---
 
