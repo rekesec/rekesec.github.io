@@ -1,6 +1,6 @@
 ---
 title: 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
-date: 2024-01-6T00:00:00+00:00
+date: 2024-01-06T00:00:00+00:00
 draft: false
 tags: ['WormGPT', 'IA', 'ChatGPT', 'LastMalware', 'Last', 'sim-4932765', 'SecurityResearching', 'DarkWeb', 'DeepWeb', 'UndergroundForum']
 ---
