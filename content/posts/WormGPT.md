@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
 date: 2024-01-06T00:00:00+00:00
-draft: True
+draft: False
 tags: ['WormGPT', 'IA', 'ChatGPT', 'LastMalware', 'Last', 'sim-4932765', 'SecurityResearching', 'DarkWeb', 'DeepWeb', 'UndergroundForum']
 ---
 
@@ -80,6 +80,14 @@ Fast forward to March 6, 2023, LastMalware published a post introducing his late
 The second version was released on September 15, 2023, as indicated by [@DailyDarkWeb](https://twitter.com/DailyDarkWeb/status/1702728987708104902?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1702728987708104902%7Ctwgr%5Eb2ed277770628a2c729eb497720ef512acc323f7%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcybersecuritynews.com%2Fai-tool-wormgpt-v2%2F) in their X (old twitter) account.
 
 {{< figure link="/posts/images/WormGPT/WormGPTV2.png" caption="WormGPT version 2 release." >}}
+
+On August 8th, **LastMalware** announced their departure from the project they initiated a couple of months ago, citing concerns over the project's reputation.
+
+{{< figure link="/posts/images/WormGPT/EndOfWormGPTProject.png" caption="WormGPT departure announcment." >}}
+
+
+## The Conclusion of WormGPT: Fact or Fiction?
+
 
 
 
