@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the Dark Side of Artificial Intelligence: WormGPT'
-date: 2024-01-06T00:00:00+00:00
-draft: True
+date: 2024-01-07T18:00:00+00:00
+draft: False
 tags: ['WormGPT', 'IA', 'ChatGPT', 'LastMalware', 'Last', 'sim-4932765', 'SecurityResearching', 'DarkWeb', 'DeepWeb', 'UndergroundForum']
 ---
 
@@ -18,17 +18,15 @@ During this blog post, we will delve into the unnerving world of dark AI, explor
 
 WormGPT is a chatbot developed by LastMalware. It is based on the GPT-J language model from 2021, which is an open-source large language model capable of generating text similar to humans, similar to ChatGPT. Being open-source, unlike OpenAI, the laboratory behind ChatGPT, means that anyone can inspect, share, and even modify the source code. This, combined with the absence of anti-abuse restrictions that prevent ChatGPT from using profanity, writing hate speech, or viruses, means that WormGPT can fulfill any kind of malicious requests.
 
-The tool was initially offered at a price of 100€ (approximately 110.64 USD) per month or 550€ (around 649USD) per year. This accessible cost was meticulously aligned with the user's intent, unlocking features, including support for unlimited characters, chat memory retention, and code formatting capabilities. Its proficiency in writing and formatting code is particularly noteworthy, providing the capability to construct sophisticated malware attacks.
-
-<br>
-<br>
+In its initial iteration, version 1 of the tool entered the market at a rate of 60€. However, with the unveiling of the enhanced version (v2), a strategic adjustment in pricing occurred, introducing two distinct plans: a monthly subscription at 100€ and an annual subscription priced at 550€.
 
   {{< figure link="/posts/images/WormGPT/WormGPTPrices.png" caption="WormGPT Initial Prices" >}}
 
-<br>
+This meticulous pricing strategy was formulated to seamlessly align with the user's objectives, granting them access to an array of features. These encompass unlimited character support, chat memory retention, and code formatting capabilities. The tool's remarkable proficiency in code composition and formatting stands out, providing users with the adeptness to engineer sophisticated malware attacks.
+
 <br>
 
-As seen in the following image obtained by the security researchers at slashnext, the tool is capable of generating emails without any ethical or security restrictions, assisting attackers in carrying out BEC attacks more easily and quickly.
+As evident from the imagery acquired by security researchers at slashnext, the tool exhibits the capability to generate emails without ethical or security constraints. This functionality aids attackers in executing BEC attacks with enhanced ease and speed.
 
 {{< figure link="/posts/images/WormGPT/WormGPT-Created-BEC-Attack.png" caption="slashnext.com image." >}}
 
@@ -105,7 +103,7 @@ On July 15, 2023, **LastMalware** announced that one of his team members express
 {{< figure link="/posts/images/WormGPT/WormGPTTransferPlan.png" caption="WormGPT selling plan." camption-effect="fade">}}
 
 
-## The question now arises: did he transfer the project to that teammate, or did he declare the end of the project and continue with it in the shadows?
+### The question now arises: did he transfer the project to that teammate, or did he declare the end of the project and continue with it in the shadows?
 
 ---
 
