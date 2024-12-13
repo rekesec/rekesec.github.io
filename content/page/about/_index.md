@@ -8,10 +8,10 @@ draft= false
 
 
 
+John is a cybersecurity engineer with nearly five years of experience in threat intelligence, digital forensics, and cybersecurity research. He specializes in analyzing phishing campaigns, investigating security incidents, and developing SOPs to improve incident response. His expertise includes conducting forensic investigations, automating event analysis, and monitoring threat intelligence sources like dark web forums.
 
-Is a security engineer with more than 3 years of experience in the threat intelligence and deception field. He has good skills to develop automation tools that help him in his daily tasks. He moves around underground forums with the objective of researching new threat actors’ campaigns like phishing and malware binaries.
+In addition to these responsibilities, John ensures the integration and performance of security measures aligned with the threat landscape, participates in diverse projects, and coordinates both external vendors and internal teams. He defines corporate security reference architectures, identifies security requirements for networks, cloud, systems, and applications, and manages the selection and implementation of security tools. John also analyzes innovation opportunities to enhance security maturity and stays updated on the latest trends.
 
-He is a highly organized and detail-oriented professional that collects, analyzes, and interprets data to provide actionable intelligence. He has proven success in developing and implementing strategic intelligence plans to support law enforcement initiatives. Skilled in using various intelligence tools and software to analyze data and interpret intelligence findings. Strong analytical, problem-solving and development skills, combined with excellent written and verbal communication skills.
 
 You can find him on [Linkedin](https://www.linkedin.com/in/johnrequejolopez/)
 
